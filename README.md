@@ -35,10 +35,10 @@
   Browser extension that evaluates AI answers against user intent, detects hallucinations, and generates precise retry prompts.  
   🔗 [Watch Demo Video](https://drive.google.com/file/d/1mQD6NG5twhM20fpsgVC4WR06COGwYGwf/view?usp=sharing)
 
-* **Mimo** [July 2026]  
+* *Scada** [July 2026]  
   Personal AI assistant that autonomously executes tasks for you.  
   🔗 [Watch Demo Video](https://drive.google.com/file/d/1M4-13ZXd2IeqYqZS8fZSRQgb81s5S1Ax/view?usp=sharing)
 
-* **Mimo Logistics Coordinator** [July 2026]  
+* **Limo Logistics Coordinator** [July 2026]  
   AI agent that reads supplier emails, updates spreadsheets, and communicates directly with suppliers.  
   🔗 [Watch Demo Video](https://drive.google.com/file/d/1v6aGvrGqzlAYeCmnStfK1CNY5UoTVeAl/view?usp=sharing)
