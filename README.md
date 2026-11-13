@@ -16,6 +16,9 @@
   Inbound agent that understands your company knowledge, replies with personalized messages within two minutes, and automatically schedules meetings.  
   🔗 [View GitHub Repository](https://github.com/Ramon-RM/iConnect-Lead-Gen-Backend)
 
+* **ProjectZ/Dispatch** [Sep 2026]
+  Middleware that runs AI jobs where and when power is cheapest and water is least stressed.
+  🔗 [View GitHub Repository](https://github.com/Ramon-RM/ProjectZ-Dispatch)
 ---
 
 ### ⚡ Side Projects Running Now
@@ -31,7 +34,6 @@
 * **Zerify** [May 2026]  
   Browser extension that evaluates AI answers against user intent, detects hallucinations, and generates precise retry prompts.  
   🔗 [Watch Demo Video](https://drive.google.com/file/d/1mQD6NG5twhM20fpsgVC4WR06COGwYGwf/view?usp=sharing)
-
 
 * **Mimo** [July 2026]  
   Personal AI assistant that autonomously executes tasks for you.  
